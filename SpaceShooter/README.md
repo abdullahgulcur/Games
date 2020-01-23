@@ -1,5 +1,5 @@
 ## Space Shooter
-<img src="images/spaceshooter1.png" width = "599" height = "599">
+<img src="screenshots/spaceshooter1.png" width = "599" height = "599">
 Game is running successfully by Microsoft Edge Browser and Google Chrome
 If you encounter any problems, send and email address abdullahgulcur2@gmail.com
 ### Requirements
@@ -15,7 +15,7 @@ If you encounter any problems, send and email address abdullahgulcur2@gmail.com
 -	From the top of the screen, random alien ships will appear and shoot at the player's spaceship.
 -	The player lost life for each hit.
 -	The game will end in two minutes if the player doesn't lose all his/her lives.
-<img src="images/spaceshooter2.png" width = "595" height = "598">
+<img src="screenshots/spaceshooter2.png" width = "595" height = "598">
 ### How to Play
 Open game by clicking SpaceShooterGame.html file
 Control player spaceship with arrow keys and shoot with space

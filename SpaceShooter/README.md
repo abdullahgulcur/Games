@@ -2,9 +2,11 @@
 <img src="screenshots/spaceshooter1.png" width = "599" height = "599">
 Game is running successfully by Microsoft Edge Browser and Google Chrome
 If you encounter any problems, send and email address abdullahgulcur2@gmail.com
+
 ### Requirements
--Project is made by using PixiJs Library.
--Any assets can be used.
+Project is made by using PixiJs Library.
+Any assets can be used.
+
 ### Game Rules
 -	Player has 3 lives. They will be shown at the top left corner of the game scene.
 -	Player will earn score points for hitting the hostile space ships and it will be shown at the right corner of the game scene.
@@ -16,6 +18,7 @@ If you encounter any problems, send and email address abdullahgulcur2@gmail.com
 -	The player lost life for each hit.
 -	The game will end in two minutes if the player doesn't lose all his/her lives.
 <img src="screenshots/spaceshooter2.png" width = "595" height = "598">
+
 ### How to Play
 Open game by clicking SpaceShooterGame.html file
 Control player spaceship with arrow keys and shoot with space

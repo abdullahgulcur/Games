@@ -1,0 +1,13 @@
+Abdullah Gulcur
+
+Game is running successfully by Microsoft Edge Browser and Google Chrome
+
+If you encounter any problems, send and email address abdullahgulcur2@gmail.com 
+
+How to Play
+
+Open game by clicking SpaceShooterGame.html file
+
+Control player spaceship with arrow keys and shoot with space
+
+If you want to play game again, just refresh the url

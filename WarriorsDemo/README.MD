@@ -1,6 +1,6 @@
 ## WARRIORS DEMO
 
-In this project, I wanted to make a medieval combat demo in AAA game quality like games The Withcer 3, Sekiro Shadows Die Twice, The Elder Scrolls V: Skyrim...
+In this project, I wanted to make a medieval combat demo in AAA game quality like games The Withcer 3, Sekiro Shadows Die Twice, The Elder Scrolls V: Skyrim... 3D models of characters and animations are provided by mixamo.com. I made coding, designing ember material with shader, fighting animation system and particles system of ember. 
 
 ### Screen Shots
 
